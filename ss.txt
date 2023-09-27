@@ -1,4 +1,4 @@
 My name is shubhneet
 I am currently doing git commands
-Hello world
+Hello world (All are human beings)
 Currently I am making new commits
